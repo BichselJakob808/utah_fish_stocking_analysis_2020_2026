@@ -89,7 +89,7 @@ Utah DWR Fish Stocking Reports
        PostgreSQL
 ```
 
-> The Python extraction code is included in the `python/` folder.
+> The Python extraction code is included as a file
 
 ### 2. Excel Data Cleaning
 
