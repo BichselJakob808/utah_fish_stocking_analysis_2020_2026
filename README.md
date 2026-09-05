@@ -130,6 +130,7 @@ I added Year, County, Waterbody, and Species filters so the dashboard isn't just
 
 <img width="1273" height="708" alt="DuchesneImg" src="https://github.com/user-attachments/assets/9239dfe2-a485-4d62-8941-1af82ae4e5ba" />
 
+** The figure above shows the results by county. Currently shows the data for Duchesne county
 
 
 ---
