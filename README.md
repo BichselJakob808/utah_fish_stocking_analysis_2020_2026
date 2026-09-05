@@ -127,6 +127,11 @@ I added Year, County, Waterbody, and Species filters so the dashboard isn't just
 | Garfield | 67 |
 | Utah | 59 |
 
+
+<img width="1273" height="708" alt="DuchesneImg" src="https://github.com/user-attachments/assets/9239dfe2-a485-4d62-8941-1af82ae4e5ba" />
+
+
+
 ---
 
 ## Tools, for reference
@@ -169,7 +174,7 @@ Utah-Fish-Stocking-Analysis/
 ## Want to look closer?
 
 1. Open `powerbi/utah_fish_stocking_dashboard.pbix` in Power BI Desktop to play with the actual dashboard
-2. `sql/analysis_queries.sql` has every query mentioned above, with comments explaining what question each one was written to answer
+2. `analysis_queries.sql` has every query mentioned above, with comments explaining what question each one was written to answer
 3. The findings above are the highlights — the SQL file has the full detail if you want to dig further
 
 ---
