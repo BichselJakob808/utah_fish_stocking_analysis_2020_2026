@@ -4,7 +4,9 @@ I fish a lot, and I'd always wondered how the state actually decides where to pu
 
 This isn't a cleaned-up sample dataset. It's messy, it has quirks, and I had to make real decisions about how to handle those quirks. That's most of what this README is about.
 
-<img width="1398" height="794" alt="Final_Screenshot" src="https://github.com/user-attachments/assets/d2f7cb0b-c992-455e-a81f-27618cfd2a39" />
+<img width="1382" height="791" alt="image" src="https://github.com/user-attachments/assets/0c8f82d9-629d-494a-9717-cc36159cc0cf" />
+
+**Image above is overview of the dashboard
 
 
 
