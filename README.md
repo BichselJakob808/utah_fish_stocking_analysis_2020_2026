@@ -176,9 +176,9 @@ Utah-Fish-Stocking-Analysis/
 
 ## Want to look closer?
 
-1. Open `powerbi/utah_fish_stocking_dashboard.pbix` in Power BI Desktop to play with the actual dashboard
-2. `analysis_queries.sql` has every query mentioned above, with comments explaining what question each one was written to answer
-3. The findings above are the highlights — the SQL file has the full detail if you want to dig further
+1. Open `Utah_Fish_Stocking_Report.pbix` in Power BI Desktop to play with the actual dashboard
+3. `analysis_queries.sql` has every query mentioned above, with comments explaining what question each one was written to answer
+4. The findings above are the highlights — the SQL file has the full detail if you want to dig further
 
 ---
 
